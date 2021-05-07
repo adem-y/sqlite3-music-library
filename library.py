@@ -1,3 +1,5 @@
+# author: Adem YILDIZ
+# library.py
 import sqlite3
 import time
 
