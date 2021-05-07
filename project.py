@@ -1,7 +1,5 @@
-# from library import Music
-# from library import Library
-# from library import sqlite3
-# from library import time
+# author: Adem YILDIZ
+# project.py
 
 from library import *
 print("""***********************************
